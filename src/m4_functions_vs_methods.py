@@ -244,6 +244,7 @@ def try_methods_and_functions():
     whd.backward(200)
     whd.draw_circle(30)
     whd.draw_square(50)
+    
     """
     Constructs a SimpleTurtle and sets its   pen  to a new rg.Pen
     that is 'blue' with thickness 5.
